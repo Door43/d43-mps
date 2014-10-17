@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mps:home|Door43 (mps)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mps|d43-mps repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mps/archive/master.zip|d43-mps.zip]]
+
+**Recent Changes**
+{{changes>ns = mps}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mps|Ethnologue data]]
+
